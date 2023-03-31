@@ -1721,22 +1721,22 @@
   "orders" : [],
   "admin" : [
     {
-    "id": 1,
+      "id": 1,
+      "name": "Suraj Singh",
+      "email": "suraj.admin@gmail.com",
+      "password": "1234567",
+      "contact": 999999999,
+      "role": "Team Lead",
+      "image": "https://avatars.githubusercontent.com/u/112753795?v=4"
+      },
+    {
+    "id": 2,
     "name": "Hemensan Mahilange",
     "email": "hemensan.admin@gmail.com",
     "password": "1234567",
     "contact": 7217729644,
-    "role": "developer",
-    "image": "https://avatars.githubusercontent.com/u/72447250?v=4"
-    },
-    {
-    "id": 2,
-    "name": "Suraj Singh",
-    "email": "suraj.admin@gmail.com",
-    "password": "1234567",
-    "contact": 999999999,
-    "role": "developer",
-    "image": "https://avatars.githubusercontent.com/u/112771413?v=4"
+    "role": "Frontend developer",
+    "image": "https://avatars.githubusercontent.com/u/111531676?v=4"
     },
     {
     "id": 3,
@@ -1744,8 +1744,8 @@
     "email": "rajat.admin@gmail.com",
     "password": "1234567",
     "contact": 999999999,
-    "role": "developer",
-    "image": "https://avatars.githubusercontent.com/u/112820279?v=4"
+    "role": "Backend developer",
+    "image": "https://avatars.githubusercontent.com/u/105916817?v=4"
     },
     {
     "id": 4,
@@ -1753,8 +1753,8 @@
     "email": "rakesh.admin@gmail.com",
     "password": "1234567",
     "contact": 999999999,
-    "role": "developer",
-    "image": "https://avatars.githubusercontent.com/u/103588575?v=4"
+    "role": "Node.js developer",
+    "image": "https://avatars.githubusercontent.com/u/112754760?v=4"
     }
     ],
    "user_details" : []
